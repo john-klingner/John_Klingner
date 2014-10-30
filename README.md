@@ -9,7 +9,7 @@ John Klingner
 john.klingner@Colorado.EDU
 
 ## Photo
-![profile photo](files/1-IaDWCiEBMo41mD73Rr5I7MgjaVf1uEe9-o9aoRvq0Y-photo-0.png)
+![profile photo](files/myFace.png)
 
 ## Website
 
@@ -63,7 +63,7 @@ Dr. Correll
 
 ## Presentations
 
-* Presented "A Stick-Slip Omnidirectional Powertrain for Low-Cost Swarm Robotics" in Chicago in September 2014. [pdf](files/presentation-file.pptx)
+* Presented "A Stick-Slip Omnidirectional Powertrain for Low-Cost Swarm Robotics" in Chicago in September 2014. [pdf](files/Presentation.pdf) note: videos will only play in Adobe Acrobat Reader
       
 ## Awards
 
@@ -84,7 +84,9 @@ Dr. Correll
 ## 
 
 
-![highlight](files/1-IaDWCiEBMo41mD73Rr5I7MgjaVf1uEe9-o9aoRvq0Y-highlight0-0.png)
+![highlight](files/droplets.png)
+![highlight](files/setup.png)
+![highlight](files/simulatedBCassembly.png)
 
 
 

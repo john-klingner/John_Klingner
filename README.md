@@ -6,7 +6,7 @@
 John Klingner
 
 ## Email
-John.Klingner@Colorado.EDU
+john.klingner@Colorado.EDU
 
 ## Photo
 ![profile photo](files/1-IaDWCiEBMo41mD73Rr5I7MgjaVf1uEe9-o9aoRvq0Y-photo-0.png)
@@ -15,7 +15,7 @@ John.Klingner@Colorado.EDU
 
 
 # Current Funding
-I have a Teaching Assistantship with CU Boulder.
+I have a Research Assistantship with CU Boulder.
 
 # PhD Program
 

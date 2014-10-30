@@ -31,8 +31,8 @@ Dr. Correll
 | -------------------- | ----------------- | ----------------- |
 | Start                | Fall 2012         |                   |
 | Area Exam            | ---               | Fall 2014         |
-| Proposal Defense     | ---               | ???               |
-| Dissertation Defense | ---               | ???               |
+| Proposal Defense     | ---               | TBD               |
+| Dissertation Defense | ---               | TBD               |
 
 ## Courses
 
@@ -76,7 +76,7 @@ Dr. Correll
 
 * TA for CSCI 2400 Computer Systems, Spring 2014
 * TA for CSCI 2400 Computer Systems, Fall 2013
-* TA for 
+* TA for CSCI 4308/4318 Software ENgineer Project 1/2, Fall 2012/Spring 2013
 
 
 # Highlights

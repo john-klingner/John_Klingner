@@ -29,53 +29,54 @@ Dr. Correll
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | Fall 2012         |                   |
+| Area Exam            | ---               | Fall 2014         |
+| Proposal Defense     | ---               | ???               |
+| Dissertation Defense | ---               | ???               |
 
 ## Courses
 
-| Course           | Taken             | Planned            | Depth    | Breadth | 
-| ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| Course                                   | Taken          | Planned        | Depth   | Breadth | 
+| ---------------------------------------- | -------------- | -------------- | ------- | ------- |
+| CSCI 7000 Scientific Visualization       | ---            | Spring 2015    | yes     | no      |
+| CSCI 7000 Physical & Tangible Computing  | ---            | Spring 2015    | yes     | no      |
+| CSCI 7000 Robotic Materials              | Fall 2014      | ---            | yes     | no      |
+| CSCI 8990 Doctoral Dissertation          | Fall 2014      | ---            | no      | no      |
+| CSCI 7900 Ind. Study w/ Dr. Correll      | Spring 2014    | ---            | yes     | no      |
+| CSCI 5352 Network Analysis & Modeling    | Fall 2013      | ---            | no      | yes     |
+| CSCI 5832 Natural Language Processing    | Fall 2013      | ---            | no      | yes     |
+| CSCI 5446 Chaotic Dynamics               | Spring 2013    | ---            | no      | yes     |
+| CSCI 5454 Design & Anlys of Algorithms   | Spring 2013    | ---            | no      | yes     |
+| CSCI 7000 Automata Cyber Phys Systems    | Fall 2012      | ---            | no      | yes     |
+| CSCI 7900 Ind. Study w/ Dr. Correll      | Fall 2012      | ---            | yes     | no      |
+| CSCI 6000 Intro to PhD                   | Fall 2012      | ---            | no      | no      |
 
 # Research
 
 ## Publications
 
-
-* Sustainable multi-core architecture with on-chip wireless links by Jacob Murray, John Klingner, Partha P. Pande,  and  Behrooz Shirazi Published as part of the Proceedings of GLSVLSI '12
+* A Response Threshold Sigmoid Function Model for Swarm Robot Collaboration by Anshul Kanakia, John Klingner, and Nikolaus Correll. To be published with the proceedings of DARS 2014.
+* A Stick-Slip Omnidirectional Powertrain for Low-Cost Swarm Robotics: Mechanism, Calibration, and Control by John Klingner, Anshul Kanakia, Nicholas Farrow, Dustin Reishus, and Nikolaus Correll. Published with the proceedings of IROS 2014.
+* Miniature Six-channel Range and Bearing System: Algorithm, Analysis, and Experimental Validation by Nicholas Farrow, John Klingner, Dustin Reishus, and Nikolaus Correll. Published with the proceedings of ICRA 2014.
+* Sustainable multi-core architecture with on-chip wireless links by Jacob Murray, John Klingner, Partha P. Pande,  and  Behrooz Shirazi. Published with the proceedings of GLSVLSI 2012
 
 
 ## Presentations
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
+* Presented "A Stick-Slip Omnidirectional Powertrain for Low-Cost Swarm Robotics" in Chicago in September 2014. [pdf](files/presentation-file.pptx)
       
 ## Awards
 
 
-* None
+* "A Response Threshold Sigmoid Function Model for Swarm Robot Collaboration" Best Paper Nominee at DARS 2014
 
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* TA for CSCI 2400 Computer Systems, Spring 2014
+* TA for CSCI 2400 Computer Systems, Fall 2013
+* TA for 
 
-# Service
-
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
 
 # Highlights
 

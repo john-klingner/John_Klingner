@@ -38,7 +38,7 @@ Dr. Correll
 
 | Course                                   | Taken          | Planned        | Depth   | Breadth | 
 | ---------------------------------------- | -------------- | -------------- | ------- | ------- |
-| CSCI 7000 Scientific Visualization       | ---            | Spring 2015    | yes     | no      |
+| ASEN 6519 Model-Based Param & State Est  | ---            | Spring 2015    | yes     | no      |
 | CSCI 7000 Physical & Tangible Computing  | ---            | Spring 2015    | yes     | no      |
 | CSCI 7000 Robotic Materials              | Fall 2014      | ---            | yes     | no      |
 | CSCI 8990 Doctoral Dissertation          | Fall 2014      | ---            | no      | no      |
@@ -55,6 +55,7 @@ Dr. Correll
 
 ## Publications
 
+* Distributed Robotic Self-Assembly using the DNA Tile Assembly Model by Ayan Dutta, John Klingner, Anshul Kanakia, and Nikolaus Correll. Pending review for ICRA 2015.
 * A Response Threshold Sigmoid Function Model for Swarm Robot Collaboration by Anshul Kanakia, John Klingner, and Nikolaus Correll. To be published with the proceedings of DARS 2014.
 * A Stick-Slip Omnidirectional Powertrain for Low-Cost Swarm Robotics: Mechanism, Calibration, and Control by John Klingner, Anshul Kanakia, Nicholas Farrow, Dustin Reishus, and Nikolaus Correll. Published with the proceedings of IROS 2014.
 * Miniature Six-channel Range and Bearing System: Algorithm, Analysis, and Experimental Validation by Nicholas Farrow, John Klingner, Dustin Reishus, and Nikolaus Correll. Published with the proceedings of ICRA 2014.
